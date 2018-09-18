@@ -8,3 +8,6 @@ In order to run this app, new Firebase config settings have to be applied found 
 
 Run with  `npm install` and  `npm start`.
 
+![](https://github.com/jakobinn/React-Native-Firebase-Event-Planner/blob/master/screens/main.png)
+![](https://github.com/jakobinn/React-Native-Firebase-Event-Planner/blob/master/screens/event.png)
+![](https://github.com/jakobinn/React-Native-Firebase-Event-Planner/blob/master/screens/chat.png)
